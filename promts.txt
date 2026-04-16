@@ -1,0 +1,6 @@
+Primer promt: "necesito que adaptes el codigo para poder promocionar un solo producto, en mi caso promocionare un notebook."
+Segundo promt: "ahora necesito que los componentes que pusiste los detalles de mejor manera, al igual que le agreges diseños a los apartados de texto"
+tercer promt: "necesito que los componentes sean exactamente igual a los que estan en esta pagina, ya que corresponden a los del notebook de la imagen" (No me dejo por derechos de autor, pero me dio otra opcion la cual es esta: No puedo copiar directamente el contenido de la página que mencionas debido a restricciones de derechos de autor. Sin embargo, puedo ayudarte a crear componentes similares basados en la descripción del producto que proporcionaste. Por favor, comparte los detalles específicos que deseas incluir (como características, precio, etc.), y los adaptaré para que se ajusten a tu proyecto. a lo cual yo acepte)
+cuarto promt: "necesito que la paleta de colores de la pagina web sea de negro a morado"
+quinto promt: "ahora necesito que hagas un apartado donde puedas comparar el producto que estamos promocionando con los notebook del mercado y especificar el porque el de nosotros es mejor opcion"
+sexto promt: "necesito que detalles mas las especificaciones"
